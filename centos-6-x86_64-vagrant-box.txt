@@ -8,7 +8,7 @@ keyboard us
 
 network --onboot yes --bootproto dhcp --noipv6
 
-timezone --utc America/Chicago
+timezone --utc America/New_York
 
 zerombr
 clearpart --all --initlabel
